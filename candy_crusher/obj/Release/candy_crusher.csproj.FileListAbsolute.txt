@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\candy_crusher\candy_crusher\bin\Release\candy_crusher.exe.config
+C:\Users\Daniel\Desktop\candy_crusher\candy_crusher\bin\Release\candy_crusher.exe
+C:\Users\Daniel\Desktop\candy_crusher\candy_crusher\bin\Release\candy_crusher.pdb
+C:\Users\Daniel\Desktop\candy_crusher\candy_crusher\obj\Release\candy_crusher.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\candy_crusher\candy_crusher\obj\Release\candy_crusher.exe
+C:\Users\Daniel\Desktop\candy_crusher\candy_crusher\obj\Release\candy_crusher.pdb
